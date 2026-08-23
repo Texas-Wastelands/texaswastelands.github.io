@@ -47,6 +47,7 @@ Technologia Scope listens to live audio (selected input or output device) and tu
 - Controller driven interaction and visual adjustment
 - Live color palette changes
 - Demo mode for hands off palette and mode changes based on music intensity and tempo over time.
+- No 3D acceleration used. Dedicated GPU not required.
 
 ## AI-Assisted Development
 
