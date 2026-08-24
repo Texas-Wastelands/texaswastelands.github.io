@@ -26,7 +26,7 @@ description: Game development, technical design, AI-assisted software projects, 
     <div class="project-card-copy">
       <p class="project-kicker">Python / Pygame / NumPy / realtime audio</p>
       <h2>Technologia Scope</h2>
-      <p>A real-time audiovisual playground driven by live audio analysis, procedural scenes generated with CPU, controller input, and rapid visual experimentation.</p>
+      <p>A real-time audiovisual playground driven by live audio analysis, realtime procedural graphics using CPU-based rendering, controller input, and rapid visual experimentation.</p>
       <span class="project-link">View project →</span>
     </div>
   </a>
