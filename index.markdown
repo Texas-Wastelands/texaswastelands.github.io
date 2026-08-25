@@ -5,18 +5,18 @@ description: Game development, technical design, AI-assisted software projects, 
 ---
 
 <div class="portfolio-hero">
-  <p class="eyebrow">GAME DEVELOPMENT // TECHNICAL DESIGN // AI-ASSISTED ENGINEERING</p>
+  <p class="eyebrow">GAME DEVELOPMENT // TECHNICAL DESIGN // AI ASSISTED ENGINEERING</p>
   <h1>Projects</h1>
-  <p class="lede">Independent game and interactive software projects spanning systems design, rapid prototyping, procedural graphics, and AI-assisted development.</p>
+  <p class="lede">Independent game and interactive software projects spanning systems design, rapid prototyping, procedural graphics, and AI assisted development.</p>
 </div>
 
 <div class="project-grid">
   <a class="project-card" href="/vape_lords/">
     <div class="project-thumb project-thumb-image project-thumb-vape-image" style="background-image:url('/assets/media/images/vape_lords/screenshots/Vape_Lords_Main_Gameplay_Window1.png');"></div>
     <div class="project-card-copy">
-      <p class="project-kicker">TypeScript / Electron / AI-assisted development</p>
+      <p class="project-kicker">TypeScript / Electron / AI assisted development</p>
       <h2>Vape Lords</h2>
-      <p>An absurd Cyberpunk desktop / web RPG prototype built through a deeply iterative AI-assisted workflow, with interconnected combat, travel, equipment, persistence, controller, and UI systems.</p>
+      <p>An absurd Cyberpunk desktop / web RPG prototype built through a deeply iterative AI assisted workflow, with interconnected combat, travel, equipment, persistence, controller, and UI systems.</p>
       <span class="project-link">View project →</span>
     </div>
   </a>
@@ -26,7 +26,7 @@ description: Game development, technical design, AI-assisted software projects, 
     <div class="project-card-copy">
       <p class="project-kicker">Python / Pygame / NumPy / realtime audio</p>
       <h2>Technologia Scope</h2>
-      <p>An audiovisual playground driven by live audio analysis, realtime CPU-based procedural graphics for low-end systems, controller input, and rapid visual experimentation.</p>
+      <p>An audiovisual playground driven by live audio analysis, realtime CPU based procedural graphics for low-end systems like Raspberry Pi, controller input, and rapid visual experimentation.</p>
       <span class="project-link">View project →</span>
     </div>
   </a>
@@ -36,7 +36,7 @@ description: Game development, technical design, AI-assisted software projects, 
     <div class="project-card-copy">
       <p class="project-kicker">Unity / C# / game systems prototype</p>
       <h2>Lonesome Wastes</h2>
-      <p>An action-RPG / flight-sim prototype built around a home-base loop, helicopter traversal, limited resources, exploration, and PS1-inspired presentation.</p>
+      <p>An action-RPG / flight sim prototype built around a home base loop, helicopter traversal, limited resources, exploration, and PS1 inspired presentation.</p>
       <span class="project-link">View project →</span>
     </div>
   </a>
@@ -46,7 +46,7 @@ description: Game development, technical design, AI-assisted software projects, 
     <div class="project-card-copy">
       <p class="project-kicker">Unity / HPSXRP / visual prototype</p>
       <h2>Heli Evac</h2>
-      <p>An early Haunted PS1-style experiment that started as a visual test and eventually led to the helicopter systems and world direction of Lonesome Wastes.</p>
+      <p>An early Haunted PS1 style experiment that started as a visual test and eventually led to the helicopter systems and world direction of Lonesome Wastes.</p>
       <span class="project-link">View project →</span>
     </div>
   </a>
